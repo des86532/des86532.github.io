@@ -1,11 +1,12 @@
 # Neil's Blog
 
-使用 keep 主題
-參考 https://keep-docs.xpoet.cn/usage-tutorial/quick-start.html
+> 使用 keep 主題  
+> 參考 https://keep-docs.xpoet.cn/usage-tutorial/quick-start.html
 
-## Blog 使用方法紀錄
+  
+## Blog 使用方法
 
-參考 https://hexo.io/zh-tw/docs/commands
+> 參考 https://hexo.io/zh-tw/docs/commands
 
 ### new
 ```
