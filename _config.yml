@@ -107,4 +107,4 @@ theme: keep
 deploy:
   type: git
   repository: https://github.com/des86532/des86532.github.io.git
-  branch: master
+  branch: gh-pages
