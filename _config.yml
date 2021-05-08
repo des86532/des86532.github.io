@@ -104,6 +104,7 @@ theme: keep
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+## npm install hexo-deployer-git --save
 deploy:
   type: git
   repository: https://github.com/des86532/des86532.github.io.git

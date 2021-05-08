@@ -39,7 +39,24 @@ $ hexo server
 - -s, --static	只使用靜態檔案
 - -l, --log	啟動記錄器，或覆蓋記錄格式
 
+
 ### deploy
+
+1. 安裝套件
+```
+npm install hexo-deployer-git --save
+```
+
+2. 修改設定
+在根目錄 `_config.yml` 添加以下設定
+```
+deploy:
+  type: git
+  repo: https://github.com/username/username.github.io.git
+  branch: master
+```
+
+3. 部署
 ```
 $ hexo deploy
 ```
